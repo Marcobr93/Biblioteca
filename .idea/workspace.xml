@@ -2,22 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb381477-5182-4157-86e2-251f02318a67" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/company/Model/Alumno.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/company/Model/Articulo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/company/Model/Diario.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/company/Model/Lectura.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/company/Model/Libro.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/company/Model/Lugar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/company/Model/Mapa.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/company/Model/Pergamino.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/company/Model/Persona.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/company/Model/PersonalBiblioteca.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/company/Model/Prestamo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/company/Model/Prestatario.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/company/Model/Profesor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/company/Model/ZonaHabilitada.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/company/Main.java" afterPath="$PROJECT_DIR$/src/org/company/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/company/Model/Alumno.java" afterPath="$PROJECT_DIR$/src/org/company/Model/Alumno.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/company/Model/Diario.java" afterPath="$PROJECT_DIR$/src/org/company/Model/Diario.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/company/Model/Lectura.java" afterPath="$PROJECT_DIR$/src/org/company/Model/Lectura.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/company/Model/Libro.java" afterPath="$PROJECT_DIR$/src/org/company/Model/Libro.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/company/Model/Mapa.java" afterPath="$PROJECT_DIR$/src/org/company/Model/Mapa.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/company/Model/Pergamino.java" afterPath="$PROJECT_DIR$/src/org/company/Model/Pergamino.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/company/Model/Prestamo.java" afterPath="$PROJECT_DIR$/src/org/company/Model/Prestamo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/company/Model/Prestatario.java" afterPath="$PROJECT_DIR$/src/org/company/Model/Prestatario.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,17 +28,17 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Articulo.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Articulo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/org/company/Model/Articulo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
+            <state relative-caret-position="297">
               <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
                 <element signature="e#428#429#0" expanded="true" />
@@ -52,45 +47,6 @@
                 <element signature="e#679#680#0" expanded="true" />
                 <element signature="e#871#872#0" expanded="true" />
                 <element signature="e#897#898#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Prestatario.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/org/company/Model/Prestatario.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Prestamo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/company/Model/Prestamo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Persona.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/company/Model/Persona.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding>
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#478#479#0" expanded="true" />
-                <element signature="e#513#514#0" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
-                <element signature="e#592#593#0" expanded="true" />
-                <element signature="e#632#633#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -118,16 +74,20 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/org/company/Model/Estudiante.java" />
-        <option value="$PROJECT_DIR$/src/org/company/Model/Libro.java" />
-        <option value="$PROJECT_DIR$/src/org/company/Model/Pergamino.java" />
-        <option value="$PROJECT_DIR$/src/org/company/Model/Diario.java" />
-        <option value="$PROJECT_DIR$/src/org/company/Model/Mapa.java" />
-        <option value="$PROJECT_DIR$/src/org/company/Model/Alumno.java" />
         <option value="$PROJECT_DIR$/src/org/company/Model/Profesor.java" />
         <option value="$PROJECT_DIR$/src/org/company/Model/Persona.java" />
         <option value="$PROJECT_DIR$/src/org/company/Model/PersonalBiblioteca.java" />
         <option value="$PROJECT_DIR$/src/org/company/Model/Articulo.java" />
         <option value="$PROJECT_DIR$/src/org/company/Model/Prestatario.java" />
+        <option value="$PROJECT_DIR$/src/org/company/Model/Alumno.java" />
+        <option value="$PROJECT_DIR$/src/org/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/org/company/Model/ZonaHabilitada.java" />
+        <option value="$PROJECT_DIR$/src/org/company/Model/Prestamo.java" />
+        <option value="$PROJECT_DIR$/src/org/company/Model/Libro.java" />
+        <option value="$PROJECT_DIR$/src/org/company/Model/Diario.java" />
+        <option value="$PROJECT_DIR$/src/org/company/Model/Lectura.java" />
+        <option value="$PROJECT_DIR$/src/org/company/Model/Mapa.java" />
+        <option value="$PROJECT_DIR$/src/org/company/Model/Pergamino.java" />
       </list>
     </option>
   </component>
@@ -138,7 +98,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="875" />
+    <option name="x" value="567" />
     <option name="y" value="23" />
     <option name="width" value="1029" />
     <option name="height" value="978" />
@@ -625,15 +585,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1493309538551</updated>
-      <workItem from="1493309540078" duration="2453000" />
+      <workItem from="1493309540078" duration="3405000" />
     </task>
+    <task id="LOCAL-00001" summary="s">
+      <created>1493312040493</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1493312040493</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2453000" />
+    <option name="totallyTimeSpent" value="3405000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="875" y="23" width="1029" height="978" extended-state="0" />
+    <frame x="567" y="23" width="1029" height="978" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -672,6 +640,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="s" />
+    <option name="LAST_COMMIT_MESSAGE" value="s" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -685,38 +657,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/company/Model/Lectura.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/company/Model/Mapa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/company/Model/Diario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/company/Model/Pergamino.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/company/Model/Profesor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -725,27 +665,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/company/Model/Alumno.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/company/Model/Libro.java">
+    <entry file="file://$PROJECT_DIR$/src/org/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/company/Model/PersonalBiblioteca.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/company/Model/Prestatario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="28" lean-forward="false" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding>
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
+            <element signature="e#940#941#0" expanded="true" />
+            <element signature="e#986#987#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -766,7 +718,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/org/company/Model/ZonaHabilitada.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -774,17 +726,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/company/Model/Alumno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/company/Model/Libro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/company/Model/Diario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/company/Model/Prestamo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/company/Model/Mapa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/company/Model/Pergamino.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/company/Model/Lectura.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/company/Model/Articulo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
+        <state relative-caret-position="297">
           <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
             <element signature="e#428#429#0" expanded="true" />
@@ -794,14 +794,6 @@
             <element signature="e#871#872#0" expanded="true" />
             <element signature="e#897#898#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/company/Model/Prestatario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
