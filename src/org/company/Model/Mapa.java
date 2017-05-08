@@ -1,11 +1,11 @@
 package org.company.Model;
 
 /**
- * Created by marco on 27/4/17.
+ * Created by thinway on 1/5/17.
  */
-public class Mapa extends Articulo implements Lectura{
-    @Override
-    public void leer() {
+public class Mapa extends ObraRevisable {
 
+    public Mapa(int codigo, String title, int anioPub) {
+        super(codigo, title, anioPub);
     }
 }

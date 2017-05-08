@@ -1,12 +1,12 @@
 package org.company.Model;
 
+
 /**
- * Created by marco on 27/4/17.
+ * Created by thinway on 1/5/17.
  */
-public class Libro extends Articulo implements Prestamo {
+public class Libro extends ObraPrestamo {
 
-    @Override
-    public void prestar() {
-
+    public Libro(int codigo, String title, int anioPub) {
+        super(codigo, title, anioPub);
     }
 }
