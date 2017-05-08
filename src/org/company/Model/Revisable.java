@@ -3,7 +3,7 @@ package org.company.Model;
 
 /**
  * Interfaz que define el comportamiento de las obras que se solo se pueden revisar en las salas del
- * Castillo de Hogwarts.
+ * Castillo de Hogwarts.k
  */
 public interface Revisable {
 
